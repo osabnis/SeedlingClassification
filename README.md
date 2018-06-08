@@ -14,14 +14,14 @@ Glob, Math and Itertools modules <br>
 To execute the classifier: <br>
 Download the repository and run the CNN_ImageClassification.py file. 
 Change the path to the dataset as per your system! 
-The dataset is too large to be uploaded so the links are given below. Download the three files there. 
-The files are: 
-train.zip - Has the training set (1.6 GB) 
-test.zip - Has the testing set (85.97 MB)
-sample_submission.csv - Sample Submission (5.13 KB)
-Link: https://www.kaggle.com/c/plant-seedlings-classification/data
+The dataset is too large to be uploaded so the links are given below. Download the files there. 
+The files are: <br>
+train.zip - Has the training set (1.6 GB) <br>
+test.zip - Has the testing set (85.97 MB) - In the repository <br>
+sample_submission.csv - Sample Submission (5.13 KB) - In the repository <br>
+Link: https://www.kaggle.com/c/plant-seedlings-classification/data  <br>
 
-We will also need pre -trained weights, which you can download from:
+We will also need pre -trained weights, which you can download from: <br>
 Link: https://www.kaggle.com/nikkonst/plantrecomodels/data
 
 Dataset - Plant Seedling Classification and Plant Recognition Models on Kaggle
